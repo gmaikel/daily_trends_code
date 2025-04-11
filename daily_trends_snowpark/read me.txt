@@ -1,0 +1,4 @@
+il faut créer un dossier data qui contient 3 dossiers :
+	- source : sources des données
+	- destination : sorties du pipeline
+	- data_repository : données de réf et de mapping

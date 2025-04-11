@@ -1,0 +1,8 @@
+[myconnection]
+account = "ACCOUNT_NAME"
+user = "USER"
+authenticator = "AUTHENTICATOR"
+role = "USER_ROLE"
+warehouse = "WAREHOUSE_NAME"
+database = "DATABASE_NAME"
+schema = "BRONZE"
